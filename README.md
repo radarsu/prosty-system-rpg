@@ -1,2 +1,4 @@
 # prosty-system-rpg
-Niesamowity system RPG, stanowiący alternatywę dla systemu DnD 5e. Postacie posiadają jedynie 3 statystyki, walki opierają się na punktach akcji - są taktyczne i dynamiczne zarazem, a możliwości postaci ograniczone wyłącznie przez wyobraźnię Mistrza Gry.
+System inspirowany między innymi DnD 5e, Savage Worlds oraz grą Divinity: Original Sin. Prosty, minimalistyczny, stanowi alternatywę dla DnD 5e opierającą się jedynie na 3 statystykach (dzięki temu jest wielokrotnie mniej złożony). Zaklęcia oraz umiejętności są tworzone dynamicznie, pod nadzorem Mistrza Gry, dzięki czemu nie ogranicza was nic poza wyobraźnią. Balans umiejętności zapewniony jest przez Mistrza Gry oraz tabelę opisująca sposób tworzenia zbalansowanych umiejętności.
+
+System tworzony z myślą o światach fantasy, w szczególności uniwersum Forgotten Realms. Bazuje na mechanice K20-stkowej.
