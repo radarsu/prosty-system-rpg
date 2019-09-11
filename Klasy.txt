@@ -1,0 +1,33 @@
+Wojownik/Rycerz - Atletyka
+Tarczownik - Atletyka + Tarczownik
+Szermierz - Akrobatyka
+Paladyn/Upadły Rycerz - Atletyka + Wiara: Bóstwo
+Smoczy Rycerz - Atletyka + Rasa: Drakon
+Barbarzyńca - Atletyka + Berserker
+Potworny Rycerz - Atletyka + Bestia: Dowolny
+Generał - Atletyka + Przywódctwo
+Jeździec/Kawalerzysta - Atletyka + Jeździectwo
+
+Magiczny Wojownik - Atletyka + Wyjątkowa broń
+Mag Bojowy - Atletyka + Wiedza magiczna
+Bard - Występy + Wyjątkowa broń
+Mnich - Akrobatyka
+Konstruktor/Inżynier - Rzemiosło: Konstrukcja
+Alchemik - Rzemiosło: Alchemia
+
+Nekromanta: Wiedza magiczna + Adept: Śmierć
+Iluzjonista: Wiedza magiczna + Adept: Umysł
+Druid/Szaman: Wiedza magiczna + Znajomość natury
+
+Łotrzyk/Złodziej: Zręczność
+Zabójca: Akrobatyka + Zręczność
+Hazardzista/Shadowblade: Zręczność + Wiedza magiczna
+Bandyta/Pirat: Zręczność + Atletyka
+
+Kleryk: Wiedza magiczna + Wiara: Bóstwo
+
+Łucznik/Kuszkik/Strzelec: Strzelectwo
+
+Bard: Występy
+Mistyk: Wiedza magiczna + Mistyk
+Elementalista: Wiedza magiczna + Elementalista
