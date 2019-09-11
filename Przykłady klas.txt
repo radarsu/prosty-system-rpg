@@ -11,23 +11,23 @@ Jeździec/Kawalerzysta - Atletyka + Jeździectwo
 Magiczny Wojownik - Atletyka + Wyjątkowa broń
 Mag Bojowy - Atletyka + Wiedza magiczna
 Bard - Występy + Wyjątkowa broń
-Mnich - Akrobatyka
+Mnich/Mistrz sztuk walki - Akrobatyka
 Konstruktor/Inżynier - Rzemiosło: Konstrukcja
 Alchemik - Rzemiosło: Alchemia
 
-Nekromanta: Wiedza magiczna + Adept: Śmierć
-Iluzjonista: Wiedza magiczna + Adept: Umysł
-Druid/Szaman: Wiedza magiczna + Znajomość natury
+Nekromanta - Wiedza magiczna + Adept: Śmierć
+Iluzjonista - Wiedza magiczna + Adept: Umysł
+Druid/Szaman - Wiedza magiczna + Znajomość natury
 
-Łotrzyk/Złodziej: Zręczność
-Zabójca: Akrobatyka + Zręczność
-Hazardzista/Shadowblade: Zręczność + Wiedza magiczna
-Bandyta/Pirat: Zręczność + Atletyka
+Łotrzyk/Złodziej - Zręczność
+Zabójca - Akrobatyka + Zręczność
+Hazardzista/Shadowblade - Zręczność + Wiedza magiczna
+Bandyta/Pirat - Zręczność + Atletyka
 
-Kleryk: Wiedza magiczna + Wiara: Bóstwo
+Kleryk - Wiedza magiczna + Wiara: Bóstwo
 
-Łucznik/Kuszkik/Strzelec: Strzelectwo
+Łucznik/Kuszkik/Strzelec - Strzelectwo
 
-Bard: Występy
-Mistyk: Wiedza magiczna + Mistyk
-Elementalista: Wiedza magiczna + Elementalista
+Bard - Występy
+Mistyk - Wiedza magiczna + Mistyk
+Elementalista - Wiedza magiczna + Elementalista
