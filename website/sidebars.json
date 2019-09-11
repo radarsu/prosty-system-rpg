@@ -1,10 +1,40 @@
 {
-  "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
-  }
+    "docs": {
+        "Konwencje": [
+            "doc1"
+        ],
+        "Rasy": [
+            "doc1"
+        ],
+        "Klasy": [
+            "doc1"
+        ],
+        "Statystyki": [
+            "doc1"
+        ],
+        "Umiejętności": [
+            "doc1"
+        ],
+        "Testy": [
+            "doc1"
+        ],
+        "Walka": [
+            "doc1"
+        ],
+        "Ekwipunek": [
+            "doc1"
+        ],
+        "Statusy": [
+            "doc1"
+        ],
+        "Skróty": [
+            "doc1"
+        ]
+    },
+    "docs-other": {
+        "First Category": [
+            "doc4",
+            "doc5"
+        ]
+    }
 }
