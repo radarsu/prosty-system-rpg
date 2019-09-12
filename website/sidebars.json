@@ -8,7 +8,8 @@
             "introduction/tests",
             "introduction/fight",
             "introduction/equipment",
-            "introduction/prices"
+            "introduction/prices",
+            "introduction/character-sheet"
         ],
         "Rasy": [
             "races/aasimari",
@@ -27,11 +28,28 @@
             "races/tabaxi"
         ],
         "Umiejętności": [
+            "abilities/main",
             "abilities/proficiency",
-            "abilities/common"
+            "abilities/common",
+            "abilities/flaws",
+            "abilities/upgrade",
+            {
+                "type": "subcategory",
+                "label": "Klasowe",
+                "ids": [
+                    "abilities/acrobatics",
+                    "abilities/athletics",
+                    "abilities/ranger",
+                    "abilities/magic",
+                    "abilities/performance",
+                    "abilities/dexterity"
+                ]
+            }
         ],
         "Dla Mistrza Gry": [
-            "game-master/tutorial"
+            "game-master/tutorial",
+            "game-master/diseases",
+            "game-master/magic-stuff"
         ]
     },
     "docs-other": {
