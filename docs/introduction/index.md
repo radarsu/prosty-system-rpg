@@ -39,7 +39,9 @@ System inspirowany między innymi DnD, Savage Worlds oraz grą Divinity: Origina
 ## Skróty
   - Atak (+X) – test, zadaje obrażenia od broni.
   - BG - Bohater Gracza.
+  - Celność - wartość dodawana do testów ataku (Poziom / 2).
   - MG - Mistrz Gry.
+  - P - zmienna oznaczająca poziom danej umiejętności.
   - Pomniejszony koszt akcji – akcja główna zamieniona na akcję dodatkową lub akcja dodatkowa zamieniona na akcję darmową.
   - Powolny – zużywa akcję główną i dodatkową.
   - Przemieszczenie – przejście przez pola bez otrzymywania ataków okazyjnych.

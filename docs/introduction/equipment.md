@@ -56,3 +56,9 @@ Każda broń posiada indywidualnie zdefiniowane obrażenia (min. 1) i **wymaga b
 
 ## Pancerze i tarcze
 Pancerze oraz tarcze **zwiększają Obronę** postaci, lecz **wymagają umiejętności „Zbrojmistrz”**. Wyróżniamy trzy typy pancerzy: lekkie, średnie, ciężkie. Zwiększają obronę o 1, 2, 3. Pancerze lepszej jakości lub magiczne mogą zwiększać obronę o większe wartości. Tarcza działają analogicznie, lecz są tylko zwykłe i średnie (dają 1 i 2 Obrony).
+
+## Eliksiry
+Można wypić 1 eliksir na 3 godziny. Każdy kolejny eliksir szkodzi zamiast pomagać.
+
+## Trucizny i olejki
+Trucizny i olejki zwiększają zadawane obrażenia przy trafieniu lub dodają do niego dodatkowy efekt, ale nie podlegają mnożnikom obrażeń.
