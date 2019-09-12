@@ -29,7 +29,10 @@
         "Umiejętności": [
             "abilities/proficiency",
             "abilities/common"
-        ]
+        ],
+        "Dla Mistrza Gry": [
+            "game-master/tutorial"
+        ],
     },
     "docs-other": {
         "First Category": [
