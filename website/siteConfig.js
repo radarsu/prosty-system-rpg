@@ -14,12 +14,10 @@ const siteConfig = {
     projectName: `prosty-system-rpg`,
     organizationName: `Artur Kurowski`,
 
-    headerLinks: [
-        { doc: 'doc1', label: 'Docs' },
-        { doc: 'doc4', label: 'API' },
-        { page: 'help', label: 'Help' },
-        { blog: true, label: 'Blog' },
-    ],
+    headerLinks: [{
+        doc: `introduction/index`,
+        label: 'Podręcznik'
+    }],
 
     users,
 
@@ -30,8 +28,8 @@ const siteConfig = {
 
     // website colors
     colors: {
-        primaryColor: '#41171d',
-        secondaryColor: '#2d1014',
+        primaryColor: `#41171d`,
+        secondaryColor: `#2d1014`,
     },
 
     /*
@@ -50,12 +48,12 @@ const siteConfig = {
     copyright: `Copyright © ${new Date().getFullYear()} Artur Kurowski 2019`,
 
     highlight: {
-        theme: 'default',
+        theme: `default`,
     },
 
     scripts: [`https://buttons.github.io/buttons.js`],
 
-    onPageNav: 'separate',
+    onPageNav: `separate`,
     cleanUrl: true,
 
     ogImage: `img/undraw_online.svg`,
@@ -63,6 +61,7 @@ const siteConfig = {
 
     enableUpdateBy: true,
     enableUpdateTime: true,
+    docsSideNavCollapsible: true,
 };
 
 module.exports = siteConfig;
