@@ -40,9 +40,9 @@ Umiejętności wymagające Strzelectwa.
 |-------|------|-------|
 | Balistyczny strzał | Atak, zasięg +4 | 1 |
 | Czuły punkt | Atak -2, drugie trafienie tą umiejętnością zadaje dodatkową kość obrażeń | 1 |
-| Odpychający strzał | Atak +2, cofa cel o 2 pola. | 1 |
+| Odpychający strzał | Atak, cofa cel o 2 pola. Jeśli trafi w przeszkodę, zostaje ogłuszony. | 1 |
 | Przeszywający strzał | Atak, ignoruje pancerz i tarczę. | 1 |
-| Strzał z odskokiem | Atak +2, przemieszczasz się o 2 pola, | 1 |
+| Strzał z odskokiem | Atak +2, przemieszczasz się o 2 pola. | 1 |
 
 ### Dodatkowe
 | Nazwa | Opis | Koszt |

@@ -24,6 +24,7 @@ Umiejętności wymagające Zręczności.
 | Bombowy nalot | Atak 3x (bombami), Wymaga 3 bomb. | 1 |
 | Śmiertelny cios | Test, dobijasz przeciwnika, który posiada PK poniżej twojego poziomu. | 1 |
 | Taniec ostrzy | Atak na przeciwników, przez których przebiegasz. Wymaga Chyży. | 2 |
+| Potrójny skok | Przeskakujesz 3 razy o 2 pola (po prostej) atakując każdego przeciwnika, przez którego przeskakujesz. | 1 |
 
 ### Główne
 | Nazwa | Opis | Koszt |

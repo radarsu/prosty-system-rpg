@@ -110,10 +110,12 @@ Umiejętności wymagające Wiedzy magicznej.
 | Aura: Moc | +1 UK umiejętności | 1 |
 | Aura: Żywioł | Zmniejsza koszt akcji zaklęć danego żywiołu do minimum akcji dodatkowej. | 1 |
 | Ciemność | Obszar 2x2, wszyscy znajdujący się w ciemności są ukryci., Wym. Adept: Śmierć | 1 |
+| Czarna dziura | Obszar 5x5, przyciągasz wszystkich w kierunku środka, Wym. Adept: Śmierć | 1 |
+| Krąg powrotu | Rysujesz z miejsu gdzie stoisz krąg powrotu, do którego możesz później przenieść się w dowolnej chwili akcją dynamiczną (pod warunkiem, że nikt go nie zajmuje). | 1 |
 | Leczący promień | Raz na walkę stawiasz promień na wybranym polu. Każdy sojusznik może jednokrotnie przejść przez promień, aby odnowić 1 PK, Wym. Adept: Światło | 1 |
 | Magiczna bariera | Blokuje K4 obrażeń na celu, Zasięg 1 | 1 |
 | Magiczne ostrze | Na czas walki tworzysz broń K6, Zasięg 1 | 1 |
-| Magiczna powierzchnia | Tworzysz obszar 3x3 powierzchni, Zasięg 3. Wym. Adept żywiołu<br/><br/>Lód / Woda / Ziemia: koszt ruchu po kratce powierzchni = 3.<br/><br/>Ogień / Śmierć: -1 kondycji za każdy ruch po powierzchni.<br/><br/>Umysł: Test vs Wola na ogłuszenie (halucynacje), jeśli przeciwnik zakończy w polu swój ruch. | 1 |
+| Magiczna powierzchnia | Tworzysz obszar 3x3 powierzchni, Zasięg 3. Wym. Adept żywiołu<br/><br/>Lód / Woda / Ziemia: koszt ruchu po kratce powierzchni = 3.<br/><br/>Śmierć: w obszarze nie działają zaklęcia leczenia oraz wspierające.<br/><br/>Ogień: -1 kondycji za każdy ruch po powierzchni.<br/><br/>Umysł: Test vs Wola na ogłuszenie (halucynacje), jeśli przeciwnik zakończy w polu swój ruch. | 1 |
 | Magiczna ściana | Tworzysz ścianę 3x1, Zasięg 3, Wym. Adept żywiołu<br/><br/>Ogień: Przejście przez ścianę odbiera K6 kondycji.<br/><br/>Powietrze: Przejście przez ścianę kosztuje 3 ruchu i nakłada oślepienie.<br/><br/>Śmierć / Woda / Ziemia: Posiada K8 wytrzymałości. | 1 |
 | Oczyszczenie | Zdejmujesz z celu negatywne, tymczasowe efekty, Zasięg: 1 | 1 |
 | Odesłanie | Test vs Wola, odsyłasz przyzwaną istotę, Zasięg: 1 | 1 |
@@ -124,6 +126,7 @@ Umiejętności wymagające Wiedzy magicznej.
 | Rozmyty obraz | Na czas walki +1 Obrona, Wym. Adept: Umysł | 1 |
 | Wirująca magia | Na czas walki, kiedy jesteś atakowany przeciwnik traci 1 Kondycji. | 1 |
 | Wzmocnienie | Na czas walki dajesz celowi (nie sobie) +1 Obrony, Celności lub ruchu, Zasięg 1 | 1 |
+| Zamiana miejsc | Zamieniasz się miejscami z sojusznikiem. | 1 |
 | Zamieć | Test, Obszar 3x3, Oślepienie, Tur 1, Wym. Adept: Woda / Ziemia | 1 |
 | Zaraza | Test vs Wola, Osłabienie, Cel 1, Tur K4, Zasięg 1, Wym. Adept: Śmierć | 1 |
 | Zbroja maga | Na czas walki +1 Obrona | 1 |
