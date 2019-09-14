@@ -23,6 +23,7 @@ Umiejętności wymagające Atletyki.
 | Odcięcie wroga | Raz na walkę możesz wykonać przy ataku test vs Wola. Przy sukcesie zmuszasz przeciwnika, którego zaatakowałeś, do walki wyłącznie z tobą. | 1 |
 | Odparcie | Raz na walkę możesz anulować efekt powalenia, ogłuszenia, unieruchomienia lub przerażenia. | 1 |
 | Odwet | Raz na walkę otrzymując obrażenia możesz spróbować zniszczyć broń przeciwnika testem vs [Obrona + ST]. | 1 |
+| Okrzyk bojowy | Raz na walkę możesz przy ataku wręcz zadeklarować wykonywanie dwóch rzutów zamiast jednego i wybrać wyższy wynik. | 1 |
 | Oportunista | Raz na walkę możesz wyprowadzić atak okazyjny bez kosztu akcji dodatkowej. | 1 |
 | Potężny chwyt | Ataki bronią dwuręczną przestają być powolne. | 2 |
 | Przerażający | Za każdym razem, gdy zadasz maksymalne obrażenia, przeciwnik musi wykonać test [K20 + Wola] vs [15 + Zadane obrażenia]. Przy porażce ucieka przez następną turę. | 1 |
@@ -39,7 +40,9 @@ Umiejętności wymagające Atletyki.
 ### Powolne
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
-|  |  |  |
+| Przerzut | Test, Powalenie, przemieszczasz przeciwnika o 2 pola w wybranym kierunku. | 1 |
+| Kamikadze | Test, -X Kondycji, Obrażenia +X UK | 1 |
+| Zamieszanie | Test, przemieszczasz się o 2 pola naprzód i ogłuszasz wszystkich w obszarze docelowym 3x3. | 1 |
 
 ### Główne
 | Nazwa | Opis | Koszt |
@@ -55,4 +58,7 @@ Umiejętności wymagające Atletyki.
 ### Dodatkowe
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
-|  |  |  |
+| Postawa: Brutalność | +1 UK ataków | 1 |
+| Postawa: Defensywa | +1 Obrona | 1 |
+| Postrach | Wszyscy wrogowie wokół Ciebie cofają się o pole w przeciwnym od Ciebie kierunku. | 1 |
+| Prowokacja | Test vs Wola, prowokujesz przeciwników w obszarze 3x3. | 1 |

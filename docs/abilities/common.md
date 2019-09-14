@@ -19,7 +19,6 @@ Dostępne dla wszystkich.
 ## Inne
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
-| Adrenalina | Raz na dzień możesz wykonać dwie akcje dodatkowe. | 1 |
 | Bestia: Dowolny | Tylko na start. Raz na dzień możesz zmienić swoją formę (np. w wilkołaka). | 2 |
 | Czujność | Możesz wykonać akcję dynamiczną zanim nadejdzie twój ruch. Nie możesz być zaskoczony, jeśli jesteś przytomny. | 1 |
 | Defensywa | +P / 1.5 Obrony. | P |

@@ -35,6 +35,7 @@ Umiejętności wymagające Wiedzy magicznej.
 | Mistyk | Raz na tydzień testem vs Wola jesteś w stanie odczytać myśli celu.<br/><br/>Raz na dzień możesz wywołać u celu koszmar lub zapewnić spokojny sen.<br/><br/>Poprzez specjalne rytuały możesz komunikować się ze światem duchów. | 1 |
 | Moc natury | Raz na walkę przy silnych żywiołach (burza, deszcz, pożar, silny wiatr, wodospad) możesz wykonać dodatkową akcję główną. Wymaga Adept: Ziemia. | 1 |
 | Mowa zwierząt | Porozumiewanie się ze zwierzętami. Wymaga znajomości natury. | 1 |
+| Odbicie zaklęcia | Raz na walkę, gdy jesteś atakowany zaklęciem nieobszarowym i go unikniesz, możesz je przejąć i wyprowadzić nim natychmiastowo atak na przeciwnika. | 1 |
 | Odporność: Żywioł | Zapewnia odporność na żywioł. Wymaga adepta tego żywiołu. | 1 |
 | Pakciarz | Poprzez specjalne rytuały możesz zawrzeć z celem dowolny pakt, którego złamanie będzie oznaczać jego śmierć, Wymaga Adept: Śmierć. | 1 |
 | Percepcja magii | Jesteś w stanie wykrywać magię, lokalizować i atakować np. niewidzialnych przeciwników. | 1 |
@@ -92,7 +93,6 @@ Umiejętności wymagające Wiedzy magicznej.
 | Magiczny pocisk | Test, Cel 1, Obr K8, Zasięg 5 | 1 |
 | Magiczny promień | Test, Obr K6, Obszar 2x1 | 1 |
 | Oplątanie | Test, Unieruchomienie, Obszar 2x2, Tur: 1, Zasięg: 3, Wym. Adept: Ziemia | 1 |
-| Oślepiająca światłość | Test vs Wola, Oślepienie, Obszar 3x3 wokół postaci, Tur K4, Wym. Adept: Światło | 1 |
 | Piorunujący pancerz | Do końca walki, każdy przechodzący przez pole obok Ciebie traci 1 Kondycji. Wym. Adept: Powietrze | 1 |
 | Podmuch | Przemieszczasz wszystkich wrogów o 5 pól w wybranym kierunku. Wym. Adept: Powietrze | 1 |
 | Porażenie / Uśpienie | Test / Test vs Wola, Ogłuszenie, Tur 1, Zasięg 3 | 1 |
@@ -107,19 +107,25 @@ Umiejętności wymagające Wiedzy magicznej.
 ### Dodatkowe
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
-| Aura mocy | +1 UK ataków i umiejętności, Tur K4 | 1 |
+| Aura: Moc | +1 UK umiejętności | 1 |
+| Aura: Żywioł | Zmniejsza koszt akcji zaklęć danego żywiołu do minimum akcji dodatkowej. | 1 |
 | Ciemność | Obszar 2x2, wszyscy znajdujący się w ciemności są ukryci., Wym. Adept: Śmierć | 1 |
+| Leczący promień | Raz na walkę stawiasz promień na wybranym polu. Każdy sojusznik może jednokrotnie przejść przez promień, aby odnowić 1 PK, Wym. Adept: Światło | 1 |
 | Magiczna bariera | Blokuje K4 obrażeń na celu, Zasięg 1 | 1 |
 | Magiczne ostrze | Na czas walki tworzysz broń K6, Zasięg 1 | 1 |
-| Magiczna powierzchnia | Tworzysz obszar 3x3 powierzchni, Zasięg 3. Wym. Adept żywiołu<br/><br/>Lód / Woda / Ziemia: koszt ruchu po kratce powierzchni = 3.<br/><br/>Ogień / Śmierć: -1 kondycji za każdy ruch po powierzchni.<br/><br/>Umysł: Test vs Wola na ogłuszenie (halucynacje), jeśli przeciwnik zakończy w polu swój ruch | 1 |
+| Magiczna powierzchnia | Tworzysz obszar 3x3 powierzchni, Zasięg 3. Wym. Adept żywiołu<br/><br/>Lód / Woda / Ziemia: koszt ruchu po kratce powierzchni = 3.<br/><br/>Ogień / Śmierć: -1 kondycji za każdy ruch po powierzchni.<br/><br/>Umysł: Test vs Wola na ogłuszenie (halucynacje), jeśli przeciwnik zakończy w polu swój ruch. | 1 |
 | Magiczna ściana | Tworzysz ścianę 3x1, Zasięg 3, Wym. Adept żywiołu<br/><br/>Ogień: Przejście przez ścianę odbiera K6 kondycji.<br/><br/>Powietrze: Przejście przez ścianę kosztuje 3 ruchu i nakłada oślepienie.<br/><br/>Śmierć / Woda / Ziemia: Posiada K8 wytrzymałości. | 1 |
 | Oczyszczenie | Zdejmujesz z celu negatywne, tymczasowe efekty, Zasięg: 1 | 1 |
 | Odesłanie | Test vs Wola, odsyłasz przyzwaną istotę, Zasięg: 1 | 1 |
 | Odporność: Żywioł | Cel otrzymuje odporność na żywioł. Wym. Adept żywiołu | 1 |
+| Oślepiająca światłość | Test vs Wola, Oślepienie, Obszar 3x3 wokół postaci, Tur 1, Wym. Adept: Światło | 1 |
 | Petryfikujący dotyk | Test, Ogłusza na turę, Wym. Adept: Śmierć / Woda / Ziemia | 1 |
 | Prawdziwe widzenie | Na czas walki cel widzi rzeczy takie, jakimi są, Zasięg: 1 | 1 |
 | Rozmyty obraz | Na czas walki +1 Obrona, Wym. Adept: Umysł | 1 |
 | Wirująca magia | Na czas walki, kiedy jesteś atakowany przeciwnik traci 1 Kondycji. | 1 |
 | Wzmocnienie | Na czas walki dajesz celowi (nie sobie) +1 Obrony, Celności lub ruchu, Zasięg 1 | 1 |
+| Zamieć | Test, Obszar 3x3, Oślepienie, Tur 1, Wym. Adept: Woda / Ziemia | 1 |
 | Zaraza | Test vs Wola, Osłabienie, Cel 1, Tur K4, Zasięg 1, Wym. Adept: Śmierć | 1 |
-| Zbroja maga | Na czas walki +1 Obrona| 1 |
+| Zbroja maga | Na czas walki +1 Obrona | 1 |
+| Żywiołowy krok | Podczas ruchu w tej turze pozostawiasz za sobą powierzchnię.<br/><br/>Lód / Woda / Ziemia: koszt ruchu po kratce powierzchni = 3.<br/><br/>Ogień / Śmierć: -1 kondycji za każdy ruch po powierzchni.<br/><br/>Umysł: Test vs Wola na ogłuszenie (halucynacje), jeśli przeciwnik zakończy w polu swój ruch. | 1 |
+| Żywiołowy odskok | Przemieszczasz się o 3 pola w wybranym kierunku, zostawiając za sobą powierzchnię.<br/><br/>Lód / Woda / Ziemia: koszt ruchu po kratce powierzchni = 3.<br/><br/>Ogień / Śmierć: -1 kondycji za każdy ruch po powierzchni.<br/><br/>Umysł: Test vs Wola na ogłuszenie (halucynacje), jeśli przeciwnik zakończy w polu swój ruch. | 1 |

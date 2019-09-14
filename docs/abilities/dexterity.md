@@ -38,6 +38,7 @@ Umiejętności wymagające Zręczności.
 ### Dodatkowe
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
+| Adrenalina | Uzyskujesz akcję główną. | 1 |
 | Postawa: Zabójca | +1 UK broni | 1 |
 | Przejście w cień | Test vs Spostrzegawczość na sąsiadujących wrogów, ukrycie. | 1 |
 | Przemknięcie | Przemieszczasz się o 2 pola, +2 Obrony na turę | 1 |

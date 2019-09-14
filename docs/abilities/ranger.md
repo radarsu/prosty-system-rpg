@@ -31,6 +31,8 @@ Umiejętności wymagające Strzelectwa.
 | Bombowy strzał | Atak, przyczepiasz do strzały małą bombę, która dodaje efekt do strzału. | 1 |
 | Deszcz strzał | Atak, Obszar 2x2 | 1 |
 | Potężny strzał | Atak, +2 UK | 1 |
+| Przebijający strzał | Atak na wszystkich w linii. | 2 |
+| Trójstrzał | Atak na 3 nie zasłaniające się wybrane kratki obok siebie. | 1 |
 | Wielostrzał | 2 ataki, rzucasz raz, pierwsza strzała posiada celność -2, druga -4. | 1 |
 
 ### Główne
@@ -38,12 +40,13 @@ Umiejętności wymagające Strzelectwa.
 |-------|------|-------|
 | Balistyczny strzał | Atak, zasięg +4 | 1 |
 | Czuły punkt | Atak -2, drugie trafienie tą umiejętnością zadaje dodatkową kość obrażeń | 1 |
-| Przebijający strzał | Atak, ignoruje pancerz i tarczę. | 1 |
-| Strzał z odskokiem | Atak +2, przemieszczasz się o 2 pola | 1 |
+| Odpychający strzał | Atak +2, cofa cel o 2 pola. | 1 |
+| Przeszywający strzał | Atak, ignoruje pancerz i tarczę. | 1 |
+| Strzał z odskokiem | Atak +2, przemieszczasz się o 2 pola, | 1 |
 
 ### Dodatkowe
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
 | Kontra | Kiedy jesteś atakowany, zamiast tego ty wpierw atakujesz cel. Jeśli trafisz, traci on 1 Kondycji i przerywasz jego atak, Tur 1 | 1 |
-| Postawa: Skupienie | +1 do celności | 1 |
+| Postawa: Skupienie | +1 Celność | 1 |
 | Wykorzystanie terenu | Możesz przeskoczyć przez przeszkodę i przesunąć ją o pole (także na przeciwnika, który traci 1 Kondycji i zostaje cofnięty o pole). | 1 |

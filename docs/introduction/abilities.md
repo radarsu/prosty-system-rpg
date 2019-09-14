@@ -26,6 +26,6 @@ Ich koszt punktowy, typ akcji i działanie ustalane są przez MG.
 
 Maksymalny poziom posiadanej umiejętności bojowej wynosi `1 + [Poziom / 2]`.
 
-Użycie umiejętności bojowej kosztuje `[3 (powolna) lub 2 (główna) lub 1 (dodatkowa) + Poziom umiejętności]`.
+Użycie umiejętności bojowej kosztuje `[3 (powolna) lub 2 (główna) lub 1 (dodatkowa) + Poziom umiejętności]`. Zmniejszenie kosztu akcji umiejętnością nie zmniejsza jej kosztu energii.
 
 Niektóre umiejętności wzajemnie się wymagają.
