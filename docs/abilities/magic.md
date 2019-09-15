@@ -58,6 +58,7 @@ Umiejętności wymagające Wiedzy magicznej.
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
 | Amok | Test vs Wola, Cel 1, Tur 1, Zasięg 3, Wymaga Adept: Umysł | 1 |
+| Dotyk śmierci | Test vs Wola, przy swoim następnym ruchu możesz kosztem akcji głównej podwoić obrażenia, jakie cel otrzymał w tej turze, Zasięg 1, Wym. Adept: Śmierć | 1 |
 | Eksplozja magii | Test, Obr K8, Obszar 3x3 wokół postaci | 1 |
 | Fala | Test, Obr K6, Obszar 3x1, Zasięg: 1, Wymaga Adept: Woda | 1 |
 | Fantom | Test vs Wola, cel walczy z wyimaginowanym przeciwnikiem, przez którego jest prowokowany, Tur 1, Zasięg 3, Wymaga Adept: Umysł | 1 |
@@ -81,7 +82,6 @@ Umiejętności wymagające Wiedzy magicznej.
 | Niewidzialność | Ukrycie, Tur K4, Wym. Adept: Umysł | 1 |
 | Zauroczenie | Test vs Wola, Tur 1, Zasięg 1, Wym. Adept: Umysł lub Piękno | 1 |
 
-
 ### Główne
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
@@ -94,6 +94,7 @@ Umiejętności wymagające Wiedzy magicznej.
 | Magiczny promień | Test, Obr K6, Obszar 2x1 | 1 |
 | Oplątanie | Test, Unieruchomienie, Obszar 2x2, Tur: 1, Zasięg: 3, Wym. Adept: Ziemia | 1 |
 | Piorunujący pancerz | Do końca walki, każdy przechodzący przez pole obok Ciebie traci 1 Kondycji. Wym. Adept: Powietrze | 1 |
+| Pnącze | Test, Unieruchomienie, 3 pola w linii prostej, Tur: 1, Wym. Adept: Ziemia | 1 |
 | Podmuch | Przemieszczasz wszystkich wrogów o 5 pól w wybranym kierunku. Wym. Adept: Powietrze | 1 |
 | Porażenie / Uśpienie | Test / Test vs Wola, Ogłuszenie, Tur 1, Zasięg 3 | 1 |
 | Przerażenie | Test vs Wola, Przerażenie, Cel 1, Tur 1, Zasięg: 5, Wym. Adept: Śmierć / Umysł | 1 |

@@ -18,6 +18,7 @@ Umiejętności wymagające Atletyki.
 | Kontruderzenie | Raz na walkę, gdy przeciwnik dobiega do Ciebie z odległości co najmniej 5 pól możesz odpowiedzieć darmowym kontratakiem. | 1 |
 | Miecz i pięść | Raz na walkę możesz wzmocnić atak (na jeden cel) o powalenie kosztem akcji dodatkowej. | 1 |
 | Mocarny chwyt | Możesz dzierżyć dwuręczną broń w jednej ręce (tylko w głównej). Wymaga potężnego chwytu. | 2 |
+| Niepowstrzymany szał | Podczas szału jesteś odporny na efekty paraliżu i unieruchomienie. | 1 |
 | Niezłomny | Walczysz dobrze w niesprzyjających warunkach nie otrzymując kar, jesteś odporny na efekty osłabienia (za wyjątkiem ran). | 1 |
 | Niszczyciel pocisków | Raz na walkę możesz odeprzeć dowolny pocisk bez rzutu. Wymaga tarczy. | 2 |
 | Odcięcie wroga | Raz na walkę możesz wykonać przy ataku test vs Wola. Przy sukcesie zmuszasz przeciwnika, którego zaatakowałeś, do walki wyłącznie z tobą. | 1 |
@@ -29,6 +30,8 @@ Umiejętności wymagające Atletyki.
 | Przerażający | Za każdym razem, gdy zadasz maksymalne obrażenia, przeciwnik musi wykonać test [K20 + Wola] vs [15 + Zadane obrażenia]. Przy porażce ucieka przez następną turę. | 1 |
 | Ratunek | Raz na walkę możesz przyjąć obrażenia z osoby obok na siebie. | 1 |
 | Rewanż | Raz na walkę otrzymując obrażenia możesz odpowiedzieć kontratakiem kosztem akcji dodatkowej. | 1 |
+| Szał | Raz na walkę, Tur k4. | 1 |
+| Szał berserkera | Podczas szału możesz zejść na -5 PK. | 1 |
 | Tarczownik | Posiadając tarczę zadajesz atakami +1 Obrażeń. | 1 |
 | Tężyzna fizyczna | Zwiększasz swoją Kondycję o P * 1.5. | 1 |
 | Twardziel | Twoje zdrowie powiększone jest o poziom / 3 zamiast / 4. | 1 |
@@ -58,7 +61,9 @@ Umiejętności wymagające Atletyki.
 ### Dodatkowe
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
+| Ochroniarz | +2 Obrony dla sojusznika stojącego obok, jeśli znajdujesz się przy nim, Tur 1 | 1 |
 | Postawa: Brutalność | +1 UK ataków | 1 |
 | Postawa: Defensywa | +1 Obrona | 1 |
 | Postrach | Wszyscy wrogowie wokół Ciebie cofają się o pole w przeciwnym od Ciebie kierunku. | 1 |
 | Prowokacja | Test vs Wola, prowokujesz przeciwników w obszarze 3x3. | 1 |
+| Tąpnięcie | Test, przeciwnicy w obszarze 3x3 tracą 1 Kondycji. | 1 |

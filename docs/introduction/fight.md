@@ -60,7 +60,7 @@ Nie można posiadać dwóch statusów o tej samej nazwie jednocześnie.
 | Chuchro | - | Cel przyjmując obrażenia zawsze otrzymuje 1 dodatkowe. |
 | Chwyt | - | Cel nie może wykonywać akcji, dopóki nie wyzwoli się z efektu. |
 | Lot | - | Cel może uciec bez testu przed każdym oponentem nieposiadającym statusu lot. |
-| Ogłuszenie | Silny | Cel traci turę. |
+| Ogłuszenie / Paraliż | Silny | Cel traci turę. |
 | Opętanie | Silny | Przejęcie kontroli nad celem. |
 | Osłabienie / Oślepienie | - | -5 celności. |
 | Postawa | - | Stały bonus. Można utrzymywać tylko jedną postawę w danej chwili. |

@@ -7,7 +7,7 @@ sidebar_label: Drakon
 | Umiejętność | Opis | Koszt |
 |-------------|------|---|
 | Język: Drakoński || 1 |
-| Niepowstrzymany | Odporność na efekty unieruchomienia i paraliżu. | 2 |
+| Niepowstrzymany | Odporność na efekty paraliżu i unieruchomienia. | 2 |
 | Odporność: Ogień* | Całkowita. | 2 |
 | Smoczy oddech* | Akcja dodatkowa, raz na walkę, obrażenia k6. | 1+ |
 
