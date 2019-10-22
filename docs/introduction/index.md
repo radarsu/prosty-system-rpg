@@ -7,10 +7,10 @@ sidebar_label: Wstęp
 System inspirowany między innymi DnD, Savage Worlds oraz grą Divinity: Original Sin. **Prosty i minimalistyczny** - stanowi alternatywę dla pełnych dodatków i komplikacji systemów. Zajmuje się **wyłacznie aspektem mechaniki** i sposobu prowadzenia gry, nie zaś światem przedstawionym.
 
 ## Cechy systemu
-  - Prosty
-  - Przystosowany do uniwersum Forgotten Realms
-  - 14 ras
   - Cennik
+  - Ponad 10 ras
+  - Prosty
+  - Przystosowany do uniwersum Zapomnianych Krain
   - Taktyczna walka
   - Zbalansowane, unikatowe umiejętności, które można ulepszać wedle preferencji gracza
   - Minimalistyczny
@@ -49,4 +49,3 @@ System inspirowany między innymi DnD, Savage Worlds oraz grą Divinity: Origina
   - Test (+X) – test `k20 + [Poziom / 2] + X vs Obrona`.
   - Test vs Wola – jw. vs Wola.
   - +1 UK – ulepszenie kości, np. 1 => k4 lub k4 => k6 lub k4 => k4 + 1. Przeskok k12 => k20 to +4 UK.
-  - Wigor - kondycja lub energia.

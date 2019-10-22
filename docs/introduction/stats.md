@@ -6,13 +6,10 @@ sidebar_label: Statystyki
 
 ## Poziom
 
-Każdy poziom pozwala przeznaczyć 1 pkt na umiejętności. `[Poziom / 2]` jest głównym modyfikatorem dodawanym do wszystkich testów w grze, wpływa na wartość Energii i Kondycji.
+Każdy poziom pozwala przeznaczyć 1 pkt na umiejętności. `[Poziom / 2]` jest głównym modyfikatorem dodawanym do wszystkich testów w grze, wpływa na wartość Kondycji.
 
 ## Doświadczenie
 MG rozdaje je wedle uznania. Aby otrzymać poziom należy zgromadzić `10 Doświadczenia * obecny poziom postaci`. W ciągu kilkugodzinnej sesji gracze powinni podnieść poziom swoich postaci od 1 do 3.
-
-## Energia [PE]
-`10 + Poziom`. Odnawia się po odpoczynku. Pozwala używać umiejętności.
 
 ## Kondycja [PK]
 `5 + [Poziom / 4]`. Odnawia się po odpoczynku.

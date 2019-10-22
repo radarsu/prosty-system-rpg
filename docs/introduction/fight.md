@@ -28,11 +28,11 @@ Broń dobywana jest podczas walki „automatycznie”, także przy ataku z zasko
 
 ## Typy akcji
 
-### [P]owolne – Koszt bazowy: 3
+### [P]owolne
 Zużywające akcję główną i dodatkową.
   - **Atak z dobiegu** – możesz przejść dodatkowo do 2 pól (i zaatakować bronią wręcz).
 
-### [G]łówne - Koszt bazowy: 2
+### [G]łówne
   - **Atak** – obrażenia zależne od użytej broni, celność ataku to test z ST równym obronie celu.
 k20 + [Poziom / 2] vs Obrona
   - **Atak mierzony** – działa jak zwykły atak z karą zależną od części ciała, w którą celujemy.
@@ -43,10 +43,10 @@ k20 + [Poziom / 2] vs Obrona
   - **Użycie przedmiotu** – rzucenie granatu, użycie zwoju, przekazanie przedmiotu, wypicie eliksiru itp. Sojusznika niezdolnego do walki nie można napoić eliksirem.
   - **Wycofanie** – nie otrzymasz ataków okazyjnych podczas ruchu od wybranego przeciwnika.
 
-### [D]odatkowe (i dynamiczne) – Koszt bazowy: 1
+### [D]odatkowe (i dynamiczne)
   - **Atak okazyjny** – dynamiczna, gdy postać chce oddalić się od znajdującego się przy niej przeciwnika walczącego wręcz, ten może wyprowadzić dodatkowy atak. Ataki okazyjne prowokowane są także przez strzelanie z broni dystansowej i wykonywanie zaklęć.
   - **Osłona** – dynamiczna, raz na turę, jeśli sąsiadujący sojusznik jest atakowany, możesz przyjąć atak zamiast niego.
-  - **Utrzymywanie pozycji** – możesz uniemożliwić innym przechodzenie przez pole. Aby Cię przepchnąć przeciwnik musi trafić Cię atakiem wręcz (akcja główna). Utrzymywanie pozycji zostaje przerwane, a przeciwnik może przesunąć Cię o 1 kratkę i zająć Twoje miejsce.
+  - **Utrzymywanie pozycji** – dynamiczna, możesz uniemożliwić innym przechodzenie przez pole. Aby Cię przepchnąć przeciwnik musi trafić Cię atakiem wręcz (akcja główna). Utrzymywanie pozycji zostaje przerwane, a przeciwnik może przesunąć Cię o 1 kratkę i zająć Twoje miejsce.
   - **Wsparcie** – raz na walkę, przywracasz k4 – 1 kondycji niezdolnemu do walki sojusznikowi obok.
   - **Wyzwolenie się** – próba wydostania się z efektu uniemożliwiającego wykonywanie akcji testem stałym.
   - **Zmiana / podniesienie broni** – zmieniasz dzierżoną broń lub podnosisz wytrąconą. Możesz przy tym nałożyć efekt na broń, np. truciznę.
