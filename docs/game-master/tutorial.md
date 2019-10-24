@@ -16,6 +16,7 @@ Staraj się, aby istotni NPC odróżniali się mocno od siebie poprzez akcent, s
 Gracze powinni czuć, iż u co najmniej jednego NPC mają oparcie, mogą mu zaufać (przynajmniej przez pewien czas), tak jak i co najmniej jednego powinni mieć za wspólnego wroga.
 
 ## Potyczki
+
 ### Dynamika walki
 Aby zwiększyć dynamikę potyczek umieść na mapie elementy otoczenia, niebezpieczne miejsca, pułapki lub efekty obszarowe, np. beczki, powalone drzewa, rozlany olej. Jeśli przeciwnik posiada takie możliwości – może rzucać i odpychać graczy w inne miejsca, odcinać ich magicznymi ścianami, kręgami lub wykorzystywać elementy otoczenia np. ciskając nimi w graczy i odgradzając od siebie.
 
@@ -32,7 +33,7 @@ Opracuj zawczasu co najmniej 3 umiejętności (słabą, średnią i silną). Uż
 Skutecznym sposobem podnoszenia trudności potyczki jest atak z zaskoczenia, zwrócenie graczy przeciwko sobie umiejętnością oponenta (amok, zauroczenie, zwód) i używanie innych efektów kontroli tłumu (ogłuszenie, paraliż, powalenie, unieruchomienie) na części z nich.
 
 ### Zadbaj o teren
-Ze względu na okoliczności, w jakich znajdują się gracze ich skuteczność może być obniżona. Poinformuj ich, że podczas tej potyczki są zmęczeni, kogoś boli głowa i zaczynają np. z połową Energii lub że ziemia jest grząska po deszczu i poruszają się o 1 kratkę mniej.
+Ze względu na okoliczności, w jakich znajdują się gracze ich skuteczność może być obniżona. Poinformuj ich, że podczas tej potyczki są zmęczeni, kogoś boli głowa i zaczyna z mniejszą kondycją lub że ziemia jest grząska po deszczu i poruszają się o 1 kratkę wolniej.
 
 ## Rozgrywka
 

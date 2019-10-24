@@ -43,13 +43,13 @@ Umiejętności wymagające Wiedzy magicznej.
 | Polimorf | Zmniejsza koszt akcji zmian formy. | 1 |
 | Popularna magia | Znasz drobne zaklęcia niebojowe z każdego elementu takie jak: alarm, bańka wodna, lokalizacja (osoby lub przedmiotu w oparciu o posiadany), magiczna kłódka, magiczny znak, naprawa, przewodnik, światło, tajemne oko, taumaturgia, telekineza (4m, 1kg), telepatyczna wiadomość, urok, uśpienie, uziemienie. | 1 |
 | Przekazanie zaklęcia | Możesz przekazać przygotowane zaklęcie innej osobie w zasięgu 3, która może natychmiast je rzucić mimo nieposiadania wiedzy magicznej. Wykorzystuje Twoją celność. | 1 |
-| Przeładowanie zaklęcia | Raz na walkę +1 UK zaklęcia kosztem 3 punktów energii. | 1 |
+| Przeładowanie zaklęcia | Raz na walkę +1 UK zaklęcia kosztem akcji dodatkowej. | 1 |
 | Sprzyjające wiatry | +1 Ruch, Wymaga Adept: Powietrze. | 1 |
 | Trwałe zaklęcie | Możesz posiadać na sobie stale rzucone jedno zaklęcie wspierające (dodatkowe; typ akcji nie zmodyfikowany). Tylko nieobszarowe zaklęcia „na czas walki”. | 1 |
 | Twórca | Możesz używać swojej magii, aby tworzyć przedmioty codziennego użytku. Wymaga Adept: Woda / Ziemia. | 1 |
-| Wyssanie mocy | Akcja dodatkowa, poprzez dotyk z ciała pokonanego przeciwnika pobierasz k4 energii. | 1 |
+| Wyssanie mocy | Akcja dodatkowa, poprzez dotyk z ciała pokonanego przeciwnika pobierasz energię, dzięki której odnawiasz jedną z użytych umiejętności. | 1 |
 | Zaklinanie | Zaklęcie z używanego przez Ciebie zwoju znika po 2 użyciach.<br/><br/>Pozwala na pisanie zwojów, ulepszanie lub tworzenie przedmiotów z rzadkich magicznych składników. | 1 |
-| Złodziej zaklęć | Gdy uda Ci się skontrować zaklęcie zamiast je eksplodować – możesz je przejąć i natychmiast rzucić. | 1 |
+| Złodziej zaklęć | Gdy uda Ci się skontrować zaklęcie, zamiast je eksplodować, możesz je przejąć i natychmiast rzucić. | 1 |
 | Zły dotyk | Możesz wykonywać ataki okazyjne zaklęciami dotykowymi. | 1 |
 
 ## Bojowe
@@ -65,6 +65,7 @@ Umiejętności wymagające Wiedzy magicznej.
 | Forma: Niedźwiedź | Obr K6, Tur K4 + 1, Uciszenie, Kondycja * 2, po powrocie stan skaluje się / 2, Wym. Znajomość natury. | 1 |
 | Forma: Ptak | Tur K4, Lot, Wym. Znajomość natury | 1 |
 | Forma: Tygrys | Obr K6, Oburęczność, Tur K6 + 1, Uciszenie, Wym. Znajomość natury | 1 |
+| Koncentracja | Przy zaklęciu wykonywanym w następnej turze możesz powtórzyć rzut na trafienie bądź obrażenia. | 1 |
 | Lewitacja | Tur K4, Lot, Wym. Adept: Powietrze | 1 |
 | Magiczne więzienie | Test, Unieruchomienie aż do zniszczenia, wytrzymuje K10 obrażeń, Wym. Adept: Śmierć, Woda, Ziemia | 1 |
 | Ognista kula | Test, Obr K6, Obszar 2x2, Zasięg: 3, Wym. Adept: Ogień | 1 |

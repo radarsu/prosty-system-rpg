@@ -25,7 +25,7 @@ Dostępne dla wszystkich.
 | Dręczyciel | Zadajesz dodatkowe k4 obrażeń powalonym lub ogłuszonym przeciwnikom. | 1 |
 | Inicjatywa | Zwiększasz swoją inicjatywę o 3. | 1 |
 | Krytyczny cios | Raz na walkę możesz odjąć od celności ataku lub umiejętności wartość nie przekraczającą twojego Poziomu / 2 i dodać ją do obrażeń.<br/><br/>Rzucając 20 przy trafieniu zadajesz dwukrotne obrażenia. | 1 |
-| Medytacja | Raz na dzień możesz użyć umiejętności bez kosztu energii. | 2 |
+| Medytacja | Raz na dzień możesz medytować (przez godzinę) oznaczając wybraną umiejętność gwiazdką. Podczas walki możesz użyć jej dwukrotnie. | 2 |
 | Miłośnik eliksirów | Raz na walkę możesz wypić eliksir z pomniejszonym kosztem akcji.<br/><br/>Możesz wypić 2 eliksiry na 3 godziny. | 1 |
 | Mistrz improwizacji | Potrafisz walczyć wszystkim, co wpadnie Ci w dłoń – włącznie z różdżkami i kosturami magicznymi.<br/><br/>Raz na dzień, gdy brakuje Ci drobnego przedmiotu (do wartości 100), możesz natychmiastowo kupić go od MG.<br/><br/>Raz na turę możesz za darmo zmienić broń. Każdy twardy przedmiot w twoich rękach traktowany jest jako broń k6 i nie otrzymujesz do niego kar. | 3 |
 | Nienawiść: Wróg | Możesz wybrać typ wroga, przeciwko któremu zadajesz podwójne obrażenia. | 1 |

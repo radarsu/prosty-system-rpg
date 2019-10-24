@@ -6,4 +6,4 @@ sidebar_label: Człowiek
 
 | Umiejętność | Opis | Koszt |
 |-------------|------|---|
-| Wytrwałość | +5 Energii | 4 |
+| Wytrwałość | Gdy nie uda Ci się użyć umiejętności, nie tracisz jej użycia. | 4 |
