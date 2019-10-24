@@ -14,7 +14,7 @@ Umiejętności wymagające Atletyki.
 | Barykada | Możesz utrzymywać pozycję bez kosztu akcji dodatkowej. | 1 |
 | Berserker | Do celności dodajesz ilość brakującej kondycji / 2. | 1 |
 | Brutalność | Gdy zadając obrażenia wyrzucisz maksymalną wartość, wykonaj dodatkowy rzut. | 3 |
-| Gruboskórny | Raz na walkę możesz zmniejszyć otrzymane obrażenia o K4 do min. 1. | 1 |
+| Gruboskórny | Raz na walkę możesz zmniejszyć otrzymane obrażenia o k4 do min. 1. | 1 |
 | Kontruderzenie | Raz na walkę, gdy przeciwnik dobiega do Ciebie z odległości co najmniej 5 pól możesz odpowiedzieć darmowym kontratakiem. | 1 |
 | Miecz i pięść | Raz na walkę możesz wzmocnić atak (na jeden cel) o powalenie kosztem akcji dodatkowej. | 1 |
 | Mocarny chwyt | Możesz dzierżyć dwuręczną broń w jednej ręce (tylko w głównej). Wymaga potężnego chwytu. | 2 |
@@ -27,7 +27,7 @@ Umiejętności wymagające Atletyki.
 | Okrzyk bojowy | Raz na walkę możesz przy ataku wręcz zadeklarować wykonywanie dwóch rzutów zamiast jednego i wybrać wyższy wynik. | 1 |
 | Oportunista | Raz na walkę możesz wyprowadzić atak okazyjny bez kosztu akcji dodatkowej. | 1 |
 | Potężny chwyt | Ataki bronią dwuręczną przestają być powolne. | 2 |
-| Przerażający | Za każdym razem, gdy zadasz maksymalne obrażenia, przeciwnik musi wykonać test [K20 + Wola] vs [15 + Zadane obrażenia]. Przy porażce ucieka przez następną turę. | 1 |
+| Przerażający | Za każdym razem, gdy zadasz maksymalne obrażenia, przeciwnik musi wykonać test [k20 + Wola] vs [15 + Zadane obrażenia]. Przy porażce ucieka przez następną turę. | 1 |
 | Ratunek | Raz na walkę możesz przyjąć obrażenia z osoby obok na siebie. | 1 |
 | Rewanż | Raz na walkę otrzymując obrażenia możesz odpowiedzieć kontratakiem kosztem akcji dodatkowej. | 1 |
 | Szał | Raz na walkę, Tur k4. | 1 |
@@ -50,7 +50,7 @@ Umiejętności wymagające Atletyki.
 ### Główne
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
-| Chwyt | Test, unieruchamiasz przeciwnika do czasu, aż powiedzie się jego test wyzwalania się. W czasie chwytu nie możesz podejmować innych akcji. Cel otrzymuje K4 - 1 obrażeń co turę. | 1 |
+| Chwyt | Test, unieruchamiasz przeciwnika do czasu, aż powiedzie się jego test wyzwalania się. W czasie chwytu nie możesz podejmować innych akcji. Cel otrzymuje k4 - 1 obrażeń co turę. | 1 |
 | Łupnięcie | Test, Ogłuszenie, Obszar 1x3, Wymagany młot | 1 |
 | Natarcie | Atak, możesz wykorzystać swój ruch, aby przesuwać przeciwnika w tył. | 1 |
 | Powalenie | Atak, Powalenie. | 1 |

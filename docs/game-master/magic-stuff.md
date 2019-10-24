@@ -8,14 +8,14 @@ Magiczne przedmioty o wątpliwym zastosowaniu.
 
 | Nazwa | Opis |
 |-------|------|
-| 10 strzał strachu | Przy trafieniu strzałą test `K20 + 5 vs Wola`. Przy sukcesie cel ucieka przez k4 tur. |
+| 10 strzał strachu | Przy trafieniu strzałą test `k20 + 5 vs Wola`. Przy sukcesie cel ucieka przez k4 tur. |
 | 10 żelowych strzał | Mocno przylepiają się do celu, zamiast go ranić. Żel jest bardzo wytrzymały. |
 | Amulet "Bez Śladu" | Jeśli umrzesz posiadając amulet na sobie - twoje ciało zostanie zdezintegrowane i zniknie bez śladu. |
 | Amulet niepoprawnych emocji | Wszyscy widzą, jakoby noszący go wyrażał odwrotne emocje do rzeczywistych. |
 | Bomba czasu | Tworzy podczas wybuchu obszar 9x9, niedostępny z zewnątrz, wewnątrz którego 1 minuta to 1 sekunda na zewnątrz. Trwa 1 minutę (1 godzinę wewnątrz). |
 | Bomba skorupy | Obszar 3x3, magiczna skorupa zamyka wszystkich w obszarze. Ma 100 punktów wytrzymałości. |
 | Broń litości | Zwiększona cecha, ale nie może zadać obrażeń poniżej 1. |
-| Bumerang wolnego powrotu | Rzucony, gdy chybi - wraca po K20 godzinach i atakuje rzucającego K4. |
+| Bumerang wolnego powrotu | Rzucony, gdy chybi - wraca po k20 godzinach i atakuje rzucającego k4. |
 | Butelka ze światłem księżyca | Zawiera 5 użyć światła księżyca. |
 | Demoniczna obroża | Ktokolwiek ją założy - wygląda jak demon. Na demony działa odwrotnie, ukrywa je jako ludzi. |
 | Ego-Lustro | Działa jak zwykłe lustro, jednak nie widać w nim odbicia osób, które w nie patrzą. |
@@ -29,15 +29,15 @@ Magiczne przedmioty o wątpliwym zastosowaniu.
 | Kocie perfumy | 3 użycia, dają +1 do testów przekonywania, a koty są Ci przyjazne. |
 | Kostur Os | Trafienie nim powoduje ukąszenie osy. |
 | Kostur-wędka | Narzędzie, które mimo bycia kosturem nadaje się do łowienia ryb, a na dodatek łowi je samodzielnie. |
-| Księga bólu | Czytając ją otrzymujesz co stronę K4 obrażeń, ma 300 stron. |
-| Księga niesamowitej nudy | `K20 + 10 vs Wola`, przy sukcesie zasypiasz. |
+| Księga bólu | Czytając ją otrzymujesz co stronę k4 obrażeń, ma 300 stron. |
+| Księga niesamowitej nudy | `k20 + 10 vs Wola`, przy sukcesie zasypiasz. |
 | Kula dobrej rady | Przyłożona do ucha szepcze Ci totalnie bezużyteczne podpowiedzi. |
 | Łańcuch sensoryczny | Osoby połączone łańcuchem współdzielą statusy i obrażenia. |
 | Magiczna miotła | Samodzielnie czyści najbliższy brud. |
 | Magiczny nawóz | Zasadzona w nim roślina osiąga pełną dojrzałość w ciągu minuty. |
-| Maska Błazna | Każdy kto zobaczy założoną maskę musi wykonać test `K20 + 5 vs Wola`, przy sukcesie nie może powstrzymać się przez uderzeniem noszącego ją w twarz. |
+| Maska Błazna | Każdy kto zobaczy założoną maskę musi wykonać test `k20 + 5 vs Wola`, przy sukcesie nie może powstrzymać się przez uderzeniem noszącego ją w twarz. |
 | Metalowy owad | Metalowy owad, który zasilony odrobiną magii wykonuje zadania maga. |
-| Miętówki | 3 użycia, raz na walkę możesz dmuchnąć mrozem K6 obrażeń lodowych kosztem akcji dodatkowej. |
+| Miętówki | 3 użycia, raz na walkę możesz dmuchnąć mrozem k6 obrażeń lodowych kosztem akcji dodatkowej. |
 | Naszyjnik mowy wstecz | Mówisz na opak. |
 | Niepowstrzymany kijek | Rzucony leci w danym kierunku w nieskończoność - ignorując grawitację. |
 | Niepozorna strzykawka | Zwykłej wielkości strzykawka, która może jednak wciągnąć do 1 litra płynów. |

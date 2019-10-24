@@ -33,7 +33,7 @@ Umiejętności wymagające Zręczności.
 | Atak z przeskokiem | Atak, przemieszczasz się za cel, możesz rzucić bombę. | 1 |
 | Cios w plecy | Atak, jeśli stoisz za przeciwnikiem (1 kratka), który walczy z innym oponentem lub nie spodziewa się ataku obrażenia broni *2. Wym. sztylet. | 1 |
 | Morderczy sprint | Atak, +1 Celności za każdą kratkę przebiegniętą po prostej. | 1 |
-| Opóźniony cios | Atak, +K6 obrażeń (niepodlegające mnożnikom), całość aplikowana w następnej turze | 1 |
+| Opóźniony cios | Atak, +k6 obrażeń (niepodlegające mnożnikom), całość aplikowana w następnej turze | 1 |
 | Precyzyjne cięcie | Atak +4 | 1 |
 | Przenikliwe cięcie | Atak, +1 UK, przemieszczasz się za cel | 1 |
 | Rzut bronią | Atak, zasięg 6, Wymaga jednoręcznej broni | 1 |

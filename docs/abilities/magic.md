@@ -26,7 +26,7 @@ Umiejętności wymagające Wiedzy magicznej.
 | Elementalista | Do każdego zaklęcia nieposiadającego natury możesz dodawać w walce wybrany żywioł. Wym. Adept tego żywiołu. | 1 |
 | Fałszywe zaklęcia | Walcząc z magiem imitujesz inne zaklęcia niż faktycznie rzucane, utrudniając kontrowanie ich (+5 do twojego rzutu).<br/><br/>Gdy wykonując zaklęcie wyrzucisz 20, wrogowie z wiedzą magiczną zostają przerażeni na jedną turę. | 1 |
 | Kontrola pogody | Raz na tydzień możesz przywołać deszcz, burzę lub zapewnić dobrą pogodę kilkugodzinnym rytuałem testem `k20 + [Poziom / 2] vs 10`. Wymaga odpowiednich składników oraz Adept: Ziemia. | 1 |
-| Kontrowanie zaklęcia | Akcja dynamiczna, możesz spróbować przeszkodzić przeciwnikowi w wykonywaniu zaklęcia Testem vs Wola. Anulowane zaklęcie eksploduje zadając K4 obrażeń, zasięg: 5. | 1 |
+| Kontrowanie zaklęcia | Akcja dynamiczna, możesz spróbować przeszkodzić przeciwnikowi w wykonywaniu zaklęcia Testem vs Wola. Anulowane zaklęcie eksploduje zadając k4 obrażeń, zasięg: 5. | 1 |
 | Krwawy mag | Kosztem PK możesz wzmocnić celność zaklęcia. | 1 |
 | Mag bojowy | Nie prowokujesz ataków okazyjnych wykonując zaklęcie obok przeciwnika walczącego wręcz. | 1 |
 | Magiczne pociski | Możesz atakować z dłoni jak przy użyciu różdżki. Wym. wolnych, niczym nieskrępowanych rąk. | 1 |
@@ -59,40 +59,40 @@ Umiejętności wymagające Wiedzy magicznej.
 |-------|------|-------|
 | Amok | Test vs Wola, Cel 1, Tur 1, Zasięg 3, Wymaga Adept: Umysł | 1 |
 | Dotyk śmierci | Test vs Wola, przy swoim następnym ruchu możesz kosztem akcji głównej podwoić obrażenia, jakie cel otrzymał w tej turze, Zasięg 1, Wym. Adept: Śmierć | 1 |
-| Eksplozja magii | Test, Obr K8, Obszar 3x3 wokół postaci | 1 |
-| Fala | Test, Obr K6, Obszar 3x1, Zasięg: 1, Wymaga Adept: Woda | 1 |
+| Eksplozja magii | Test, Obr k8, Obszar 3x3 wokół postaci | 1 |
+| Fala | Test, Obr k6, Obszar 3x1, Zasięg: 1, Wymaga Adept: Woda | 1 |
 | Fantom | Test vs Wola, cel walczy z wyimaginowanym przeciwnikiem, przez którego jest prowokowany, Tur 1, Zasięg 3, Wymaga Adept: Umysł | 1 |
-| Forma: Niedźwiedź | Obr K6, Tur K4 + 1, Uciszenie, Kondycja * 2, po powrocie stan skaluje się / 2, Wym. Znajomość natury. | 1 |
-| Forma: Ptak | Tur K4, Lot, Wym. Znajomość natury | 1 |
-| Forma: Tygrys | Obr K6, Oburęczność, Tur K6 + 1, Uciszenie, Wym. Znajomość natury | 1 |
+| Forma: Niedźwiedź | Obr k6, Tur k4 + 1, Uciszenie, Kondycja * 2, po powrocie stan skaluje się / 2, Wym. Znajomość natury. | 1 |
+| Forma: Ptak | Tur k4, Lot, Wym. Znajomość natury | 1 |
+| Forma: Tygrys | Obr k6, Oburęczność, Tur k6 + 1, Uciszenie, Wym. Znajomość natury | 1 |
 | Koncentracja | Przy zaklęciu wykonywanym w następnej turze możesz powtórzyć rzut na trafienie bądź obrażenia. | 1 |
-| Lewitacja | Tur K4, Lot, Wym. Adept: Powietrze | 1 |
-| Magiczne więzienie | Test, Unieruchomienie aż do zniszczenia, wytrzymuje K10 obrażeń, Wym. Adept: Śmierć, Woda, Ziemia | 1 |
-| Ognista kula | Test, Obr K6, Obszar 2x2, Zasięg: 3, Wym. Adept: Ogień | 1 |
-| Ożywienie przedmiotów | Ożywiasz K4 obiektów w otoczeniu, które atakują cel z twoją celnością –[wyrzucona wartość]. | 1 |
-| Pacyfikacja | Test vs Wola, cel nie może atakować (zadawać obrażeń), Tur K4, Wym. Adept: Światło, Zasięg: 1 | 1 |
+| Lewitacja | Tur k4, Lot, Wym. Adept: Powietrze | 1 |
+| Magiczne więzienie | Test, Unieruchomienie aż do zniszczenia, wytrzymuje k10 obrażeń, Wym. Adept: Śmierć, Woda, Ziemia | 1 |
+| Ognista kula | Test, Obr k6, Obszar 2x2, Zasięg: 3, Wym. Adept: Ogień | 1 |
+| Ożywienie przedmiotów | Ożywiasz k4 obiektów w otoczeniu, które atakują cel z twoją celnością –[wyrzucona wartość]. | 1 |
+| Pacyfikacja | Test vs Wola, cel nie może atakować (zadawać obrażeń), Tur k4, Wym. Adept: Światło, Zasięg: 1 | 1 |
 | Pomniejszenie | Test vs Wola, obrażenia celu / 2, Tur: 1, Zasięg: 1 | 1 |
 | Powiększenie | Test vs Wola, cel otrzymuje tyle obrażeń, co ty, Wym. Adept: Śmierć. | 1 |
 | Przeklęta więź | Test vs Wola, cel otrzymuje tyle obrażeń, co ty, Wym. Adept: Śmierć. | 1 |
 | Przeniesienie umysłu | Test vs Wola, Tur 1, Zasięg 1, Opętanie, na czas trwania zaklęcia mag upada (powalenie) i pozostaje niezdolny do walki, Wym. Adept: Umysł. | 1 |
-| Sanktuarium | Tworzysz bezpieczny, pozbawiony dźwięku obszar 2x2, w którym nikt nie podejmuje walki, a efekty obszarowe nie działają, Tur K4 | 1 |
-| Słoneczny promień | Test vs Wola, Obr K8, Wym. Adept: Światło, Zasięg globalny | 1 |
-| Transfer życia | Test vs Wola, Obr K4, Zasięg 1, przywraca kondycję, Wym. Adept: Śmierć | 1 |
+| Sanktuarium | Tworzysz bezpieczny, pozbawiony dźwięku obszar 2x2, w którym nikt nie podejmuje walki, a efekty obszarowe nie działają, Tur k4 | 1 |
+| Słoneczny promień | Test vs Wola, Obr k8, Wym. Adept: Światło, Zasięg globalny | 1 |
+| Transfer życia | Test vs Wola, Obr k4, Zasięg 1, przywraca kondycję, Wym. Adept: Śmierć | 1 |
 | Trzęsienie ziemi | Test, Powalenie, Wszyscy (także sojusznicy), Wym. Adept: Ziemia | 1 |
-| Udręczenie | Test vs Wola, cel otrzymuje tyle obrażeń, ile sam zadaje, Tur K4, Wym. Adept: Śmierć, Zasięg: 1 | 1 |
-| Niewidzialność | Ukrycie, Tur K4, Wym. Adept: Umysł | 1 |
+| Udręczenie | Test vs Wola, cel otrzymuje tyle obrażeń, ile sam zadaje, Tur k4, Wym. Adept: Śmierć, Zasięg: 1 | 1 |
+| Niewidzialność | Ukrycie, Tur k4, Wym. Adept: Umysł | 1 |
 | Zauroczenie | Test vs Wola, Tur 1, Zasięg 1, Wym. Adept: Umysł lub Piękno | 1 |
 
 ### Główne
 | Nazwa | Opis | Koszt |
 |-------|------|-------|
-| Chmara owadów | Test vs Wola, Obr K6, Osłabienie, Tur 1, Zasięg 3, Wym. Adept: Śmierć / Ziemia | 1 |
+| Chmara owadów | Test vs Wola, Obr k6, Osłabienie, Tur 1, Zasięg 3, Wym. Adept: Śmierć / Ziemia | 1 |
 | Chmura dymu | Obszar 2x2, wszyscy atakujący cel znajdujący się w chmurze lub znajdując się w chmurze są przy tej akcji pod wpływem oślepienia. | 1 |
-| Leczenie | Przywraca K6 PK, Zasięg 1, Wym. Adept: Światło / Woda / Ziemia | 1 |
-| Lustrzane odbicie | Tworzysz K4 iluzji samego siebie, Tur 1, Zasięg 3 | 1 |
+| Leczenie | Przywraca k6 PK, Zasięg 1, Wym. Adept: Światło / Woda / Ziemia | 1 |
+| Lustrzane odbicie | Tworzysz k4 iluzji samego siebie, Tur 1, Zasięg 3 | 1 |
 | Magiczna broń | +1 UK broni do walki wręcz, Na walkę, Zasięg 1 | 1 |
-| Magiczny pocisk | Test, Cel 1, Obr K8, Zasięg 5 | 1 |
-| Magiczny promień | Test, Obr K6, Obszar 2x1 | 1 |
+| Magiczny pocisk | Test, Cel 1, Obr k8, Zasięg 5 | 1 |
+| Magiczny promień | Test, Obr k6, Obszar 2x1 | 1 |
 | Oplątanie | Test, Unieruchomienie, Obszar 2x2, Tur: 1, Zasięg: 3, Wym. Adept: Ziemia | 1 |
 | Piorunujący pancerz | Do końca walki, każdy przechodzący przez pole obok Ciebie traci 1 Kondycji. Wym. Adept: Powietrze | 1 |
 | Pnącze | Test, Unieruchomienie, 3 pola w linii prostej, Tur: 1, Wym. Adept: Ziemia | 1 |
@@ -100,7 +100,7 @@ Umiejętności wymagające Wiedzy magicznej.
 | Porażenie / Uśpienie | Test / Test vs Wola, Ogłuszenie, Tur 1, Zasięg 3 | 1 |
 | Przerażenie | Test vs Wola, Przerażenie, Cel 1, Tur 1, Zasięg: 5, Wym. Adept: Śmierć / Umysł | 1 |
 | Rozproszenie magii | Test, rozprasza magię z celu, Zasięg 1 | 1 |
-| Śmiercionośny krąg | Obr K8 przy przejściu, Obszar 3x3, Tur K4, Zasięg: 3, Wym. Adept: Ogień / Śmierć | 1 |
+| Śmiercionośny krąg | Obr k8 przy przejściu, Obszar 3x3, Tur k4, Zasięg: 3, Wym. Adept: Ogień / Śmierć | 1 |
 | Telekineza | Test, Odbiera przeciwnikowi przedmiot, Zasięg 3 | 1 |
 | Teleportacja | Przemieszczasz cel o 5 pól. Nie może przenikać obiektów stałych. | 1 |
 | Wrażliwość | Test vs Wola, Chuchro, Na czas walki | 1 |
@@ -115,10 +115,10 @@ Umiejętności wymagające Wiedzy magicznej.
 | Czarna dziura | Obszar 5x5, przyciągasz wszystkich w kierunku środka, Wym. Adept: Śmierć | 1 |
 | Krąg powrotu | Rysujesz z miejsu gdzie stoisz krąg powrotu, do którego możesz później przenieść się w dowolnej chwili akcją dynamiczną (pod warunkiem, że nikt go nie zajmuje). | 1 |
 | Leczący promień | Raz na walkę stawiasz promień na wybranym polu. Każdy sojusznik może jednokrotnie przejść przez promień, aby odnowić 1 PK, Wym. Adept: Światło | 1 |
-| Magiczna bariera | Blokuje K4 obrażeń na celu, Zasięg 1 | 1 |
-| Magiczne ostrze | Na czas walki tworzysz broń K6, Zasięg 1 | 1 |
+| Magiczna bariera | Blokuje k4 obrażeń na celu, Zasięg 1 | 1 |
+| Magiczne ostrze | Na czas walki tworzysz broń k6, Zasięg 1 | 1 |
 | Magiczna powierzchnia | Tworzysz obszar 3x3 powierzchni, Zasięg 3. Wym. Adept żywiołu<br/><br/>Lód / Woda / Ziemia: koszt ruchu po kratce powierzchni = 3.<br/><br/>Śmierć: w obszarze nie działają zaklęcia leczenia oraz wspierające.<br/><br/>Ogień: -1 kondycji za każdy ruch po powierzchni.<br/><br/>Umysł: Test vs Wola na ogłuszenie (halucynacje), jeśli przeciwnik zakończy w polu swój ruch. | 1 |
-| Magiczna ściana | Tworzysz ścianę 3x1, Zasięg 3, Wym. Adept żywiołu<br/><br/>Ogień: Przejście przez ścianę odbiera K6 kondycji.<br/><br/>Powietrze: Przejście przez ścianę kosztuje 3 ruchu i nakłada oślepienie.<br/><br/>Śmierć / Woda / Ziemia: Posiada K8 wytrzymałości. | 1 |
+| Magiczna ściana | Tworzysz ścianę 3x1, Zasięg 3, Wym. Adept żywiołu<br/><br/>Ogień: Przejście przez ścianę odbiera k6 kondycji.<br/><br/>Powietrze: Przejście przez ścianę kosztuje 3 ruchu i nakłada oślepienie.<br/><br/>Śmierć / Woda / Ziemia: Posiada k8 wytrzymałości. | 1 |
 | Oczyszczenie | Zdejmujesz z celu negatywne, tymczasowe efekty, Zasięg: 1 | 1 |
 | Odesłanie | Test vs Wola, odsyłasz przyzwaną istotę, Zasięg: 1 | 1 |
 | Odporność: Żywioł | Cel otrzymuje odporność na żywioł. Wym. Adept żywiołu | 1 |
@@ -130,7 +130,7 @@ Umiejętności wymagające Wiedzy magicznej.
 | Wzmocnienie | Na czas walki dajesz celowi (nie sobie) +1 Obrony, Celności lub ruchu, Zasięg 1 | 1 |
 | Zamiana miejsc | Zamieniasz się miejscami z sojusznikiem. | 1 |
 | Zamieć | Test, Obszar 3x3, Oślepienie, Tur 1, Wym. Adept: Woda / Ziemia | 1 |
-| Zaraza | Test vs Wola, Osłabienie, Cel 1, Tur K4, Zasięg 1, Wym. Adept: Śmierć | 1 |
+| Zaraza | Test vs Wola, Osłabienie, Cel 1, Tur k4, Zasięg 1, Wym. Adept: Śmierć | 1 |
 | Zbroja maga | Na czas walki +1 Obrona | 1 |
 | Żywiołowy krok | Podczas ruchu w tej turze pozostawiasz za sobą powierzchnię.<br/><br/>Lód / Woda / Ziemia: koszt ruchu po kratce powierzchni = 3.<br/><br/>Ogień / Śmierć: -1 kondycji za każdy ruch po powierzchni.<br/><br/>Umysł: Test vs Wola na ogłuszenie (halucynacje), jeśli przeciwnik zakończy w polu swój ruch. | 1 |
 | Żywiołowy odskok | Przemieszczasz się o 3 pola w wybranym kierunku, zostawiając za sobą powierzchnię.<br/><br/>Lód / Woda / Ziemia: koszt ruchu po kratce powierzchni = 3.<br/><br/>Ogień / Śmierć: -1 kondycji za każdy ruch po powierzchni.<br/><br/>Umysł: Test vs Wola na ogłuszenie (halucynacje), jeśli przeciwnik zakończy w polu swój ruch. | 1 |

@@ -15,7 +15,7 @@ Umiejętności wymagające Strzelectwa.
 | Orli wzrok | +1 Zasięgu przy strzelaniu z broni dystansowej. | 1 |
 | Precyzja | Kary przy atakach mierzonych -2, -4, -6 (zamiast -3, -6, -9). | 1 |
 | Predykcyjny strzał | Raz na walkę możesz przy strzale zadeklarować wykonywanie dwóch rzutów zamiast jednego i wybrać wyższy wynik. | 1 |
-| Rozpoznanie terenu | Na początku walki na otwartym terenie możesz rozmieścić K4 naturalnych przeszkód. | 1 |
+| Rozpoznanie terenu | Na początku walki na otwartym terenie możesz rozmieścić k4 naturalnych przeszkód. | 1 |
 | Snajper | +2 Celności, gdy strzelasz na dystansie większym bądź równym 7. | 1 |
 | Strzał z bliska | Raz na walkę +5 celności, jeśli strzelasz w zwarciu. | 1 |
 | Strzał w zwarciu | Nie prowokujesz ataków okazyjnych strzelając obok przeciwników walczących wręcz. | 1 |
